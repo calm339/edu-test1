@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 aaaadev add dev test
-=======
 aaaadev bug bug
->>>>>>> fixed-bug
+
